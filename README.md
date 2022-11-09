@@ -1,2 +1,2 @@
 # DomainSpecificIntelligence
-Identify standard features in DATA
+Identify Patterns in the dataset using standardized approach
